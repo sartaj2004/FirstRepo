@@ -8,7 +8,7 @@ package arraydemo;
 public class StudentList {
     public static void main(String[]args){
         Student s1 =new Student(1,"sartaj");
-        Student[] list=new Student[3];
+        Student[] list=new Student[4];
         list[0]=s1;
         list[1]=new Student(2,"anshu");
         list[2]= new Student(3,"gavy");
