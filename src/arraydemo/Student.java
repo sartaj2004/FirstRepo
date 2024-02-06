@@ -8,6 +8,15 @@ package arraydemo;
 public class Student {
    private int id;
    private String name;
+   private String field;
+
+    public String getField() {
+        return field;
+    }
+
+    public void setField(String field) {
+        this.field = field;
+    }
 
     public Student(int id, String name) {
         this.id = id;
