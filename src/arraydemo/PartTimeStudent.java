@@ -2,7 +2,7 @@
 package arraydemo;
 
 /**
- *
+ *dfgdfgf
  * @author sartaj
  */
 public class PartTimeStudent extends Student  {
